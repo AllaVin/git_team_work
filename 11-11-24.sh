@@ -11,4 +11,5 @@
 read -p "Введите путь к исходной директории: " source_directory
 read -p "Введите путь к целевой директории: " target_directory
 
+echo ":)"
 
